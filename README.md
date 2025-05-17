@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Bhmsa
+- 👋 Hi, I’m @Surya
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning unity and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Bhmsa/Bhmsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
